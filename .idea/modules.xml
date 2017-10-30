@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestJGit.iml" filepath="$PROJECT_DIR$/TestJGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nterra.iml" filepath="$PROJECT_DIR$/nterra.iml" />
+    </modules>
+  </component>
+</project>
