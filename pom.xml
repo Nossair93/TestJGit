@@ -16,6 +16,7 @@
                 <configuration>
                     <pushFeatures>true</pushFeatures>
                     <pushHotfixes>true</pushHotfixes>
+                    <allowUntracked>true</allowUntracked>
                     <flowInitContext>
                         <masterBranchName>master</masterBranchName>
                         <developBranchName>develop</developBranchName>
